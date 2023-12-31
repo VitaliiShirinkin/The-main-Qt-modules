@@ -1,9 +1,0 @@
-C:/QtProjects/The_main_Qt_modules/TheMainQtModules/Builds/debug/CMakeFiles/TheMainQtModules.dir
-C:/QtProjects/The_main_Qt_modules/TheMainQtModules/Builds/debug/CMakeFiles/edit_cache.dir
-C:/QtProjects/The_main_Qt_modules/TheMainQtModules/Builds/debug/CMakeFiles/rebuild_cache.dir
-C:/QtProjects/The_main_Qt_modules/TheMainQtModules/Builds/debug/CMakeFiles/list_install_components.dir
-C:/QtProjects/The_main_Qt_modules/TheMainQtModules/Builds/debug/CMakeFiles/install.dir
-C:/QtProjects/The_main_Qt_modules/TheMainQtModules/Builds/debug/CMakeFiles/install/local.dir
-C:/QtProjects/The_main_Qt_modules/TheMainQtModules/Builds/debug/CMakeFiles/install/strip.dir
-C:/QtProjects/The_main_Qt_modules/TheMainQtModules/Builds/debug/CMakeFiles/TheMainQtModules_autogen_timestamp_deps.dir
-C:/QtProjects/The_main_Qt_modules/TheMainQtModules/Builds/debug/CMakeFiles/TheMainQtModules_autogen.dir
